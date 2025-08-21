@@ -8,7 +8,7 @@ I study programming since I was 15 years old, I have always been passionate in t
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [danielalbuquerque.dev](http://examplesit3.dev)
-* ✉️  You can contact me at [danielwork1106@proton.me](mailto:danielwork1106@proton.me)
+* ✉️  You can contact me at [daniel.balbuquerque@proton.me](mailto:daniel.balbuquerque@proton.me)
 
 ### Skills
 
