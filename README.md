@@ -7,7 +7,6 @@ C# / .Net Backend Developer
 I study programming since I was 15 years old, I have always been passionate in this area, and nowadays I focus on creating new projects with all these skills that I have been learning since when I was younger, now I am focused on Backend in the language that I like most today that would be C#, more always ready to learn more and more of this area.
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [danielalbuquerque.dev](http://examplesit3.dev)
 * ✉️  You can contact me at [daniel.balbuquerque@proton.me](mailto:daniel.balbuquerque@proton.me)
 
 ### Skills
