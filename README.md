@@ -8,7 +8,7 @@
   <pre>
     Backend Devloper • Game Developer
   </pre>
-  <a href="https://steamcommunity.com/id/d_dnx/">
+  <a href="https://steamcommunity.com/id/youknowhowthatis/">
     <img alt="steambadge" src="https://img.shields.io/badge/steam-darkblue">
   </a>
 </div>
