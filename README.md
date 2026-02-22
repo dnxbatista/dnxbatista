@@ -6,8 +6,9 @@
   />
   <br><br>
   <pre>
-    X Back-end dev • Game Developer
-    Z Music • Games • Anime • Code
+    Backend Devloper • Game Developer
   </pre>
-  [![](https://img.shields.io/badge/steam-darkblue)](https://steamcommunity.com/id/d_dnx/)
+  <a href="https://steamcommunity.com/id/d_dnx/">
+    <img alt="steambadge" src="https://img.shields.io/badge/steam-darkblue">
+  </a>
 </div>
