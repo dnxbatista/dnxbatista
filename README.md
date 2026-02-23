@@ -6,7 +6,7 @@
   />
   <br><br>
   <pre>
-    Backend Devloper • Game Developer
+    Backend Developer • Game Developer
   </pre>
   <a href="https://steamcommunity.com/id/youknowhowthatis/">
     <img alt="steambadge" src="https://img.shields.io/badge/steam-darkblue">
