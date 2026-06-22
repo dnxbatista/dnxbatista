@@ -6,9 +6,12 @@
   />
   <br><br>
   <pre>
-    Software Engineer
+    Software Engineer - Game Engineer
   </pre>
   <a href="https://steamcommunity.com/id/youknowhowthatis/">
     <img alt="steambadge" src="https://img.shields.io/badge/steam-darkblue">
+  </a>
+  <a href="https://x.com/_dnxb">
+    <img alt="xbadge" src="https://img.shields.io/badge/X-black">
   </a>
 </div>
